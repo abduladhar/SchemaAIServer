@@ -1,0 +1,6 @@
+@SchemaAI_HostAddress = http://localhost:5053
+
+GET {{SchemaAI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

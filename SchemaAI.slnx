@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="CommonEntities/CommonEntities.csproj" Id="adcc3e1b-8009-425c-b5a1-8079481a1bac" />
+  <Project Path="SchemaAI.DAL/SchemaAI.DAL.csproj" />
+  <Project Path="SchemaAI.DALContract/SchemaAI.Persistence.csproj" />
+  <Project Path="SchemaAI.DALContracts/SchemaAI.DALContracts.csproj" />
+  <Project Path="SchemaAI.Entities/SchemaAI.Entities.csproj" />
+  <Project Path="SchemaAI.EntitiesDto/SchemaAI.EntitiesDto.csproj" />
+  <Project Path="SchemaAI.ServiceContract/SchemaAI.ServiceContract.csproj" />
+  <Project Path="SchemaAI.Services/SchemaAI.Services.csproj" />
+  <Project Path="SchemaAI/SchemaAI.csproj" />
+</Solution>

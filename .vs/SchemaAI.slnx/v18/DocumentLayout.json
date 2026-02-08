@@ -1,0 +1,431 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2781A1B4-2806-801D-797F-49AE2E3F59CE}|SchemaAI.Services\\SchemaAI.Services.csproj|d:\\workarea\\schemaai-server-v5.0\\schemaai-server\\schemaai\\schemaai.services\\uploadedfileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2781A1B4-2806-801D-797F-49AE2E3F59CE}|SchemaAI.Services\\SchemaAI.Services.csproj|solutionrelative:schemaai.services\\uploadedfileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2781A1B4-2806-801D-797F-49AE2E3F59CE}|SchemaAI.Services\\SchemaAI.Services.csproj|d:\\workarea\\schemaai-server-v5.0\\schemaai-server\\schemaai\\schemaai.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2781A1B4-2806-801D-797F-49AE2E3F59CE}|SchemaAI.Services\\SchemaAI.Services.csproj|solutionrelative:schemaai.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2781A1B4-2806-801D-797F-49AE2E3F59CE}|SchemaAI.Services\\SchemaAI.Services.csproj|d:\\workarea\\schemaai-server-v5.0\\schemaai-server\\schemaai\\schemaai.services\\templateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2781A1B4-2806-801D-797F-49AE2E3F59CE}|SchemaAI.Services\\SchemaAI.Services.csproj|solutionrelative:schemaai.services\\templateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2781A1B4-2806-801D-797F-49AE2E3F59CE}|SchemaAI.Services\\SchemaAI.Services.csproj|d:\\workarea\\schemaai-server-v5.0\\schemaai-server\\schemaai\\schemaai.services\\templatepromptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2781A1B4-2806-801D-797F-49AE2E3F59CE}|SchemaAI.Services\\SchemaAI.Services.csproj|solutionrelative:schemaai.services\\templatepromptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2781A1B4-2806-801D-797F-49AE2E3F59CE}|SchemaAI.Services\\SchemaAI.Services.csproj|d:\\workarea\\schemaai-server-v5.0\\schemaai-server\\schemaai\\schemaai.services\\templatefileconfigservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2781A1B4-2806-801D-797F-49AE2E3F59CE}|SchemaAI.Services\\SchemaAI.Services.csproj|solutionrelative:schemaai.services\\templatefileconfigservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2781A1B4-2806-801D-797F-49AE2E3F59CE}|SchemaAI.Services\\SchemaAI.Services.csproj|d:\\workarea\\schemaai-server-v5.0\\schemaai-server\\schemaai\\schemaai.services\\systemconfigservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2781A1B4-2806-801D-797F-49AE2E3F59CE}|SchemaAI.Services\\SchemaAI.Services.csproj|solutionrelative:schemaai.services\\systemconfigservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2781A1B4-2806-801D-797F-49AE2E3F59CE}|SchemaAI.Services\\SchemaAI.Services.csproj|d:\\workarea\\schemaai-server-v5.0\\schemaai-server\\schemaai\\schemaai.services\\processingrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2781A1B4-2806-801D-797F-49AE2E3F59CE}|SchemaAI.Services\\SchemaAI.Services.csproj|solutionrelative:schemaai.services\\processingrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2781A1B4-2806-801D-797F-49AE2E3F59CE}|SchemaAI.Services\\SchemaAI.Services.csproj|d:\\workarea\\schemaai-server-v5.0\\schemaai-server\\schemaai\\schemaai.services\\processedresultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2781A1B4-2806-801D-797F-49AE2E3F59CE}|SchemaAI.Services\\SchemaAI.Services.csproj|solutionrelative:schemaai.services\\processedresultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2781A1B4-2806-801D-797F-49AE2E3F59CE}|SchemaAI.Services\\SchemaAI.Services.csproj|d:\\workarea\\schemaai-server-v5.0\\schemaai-server\\schemaai\\schemaai.services\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2781A1B4-2806-801D-797F-49AE2E3F59CE}|SchemaAI.Services\\SchemaAI.Services.csproj|solutionrelative:schemaai.services\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2781A1B4-2806-801D-797F-49AE2E3F59CE}|SchemaAI.Services\\SchemaAI.Services.csproj|d:\\workarea\\schemaai-server-v5.0\\schemaai-server\\schemaai\\schemaai.services\\moduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2781A1B4-2806-801D-797F-49AE2E3F59CE}|SchemaAI.Services\\SchemaAI.Services.csproj|solutionrelative:schemaai.services\\moduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2781A1B4-2806-801D-797F-49AE2E3F59CE}|SchemaAI.Services\\SchemaAI.Services.csproj|d:\\workarea\\schemaai-server-v5.0\\schemaai-server\\schemaai\\schemaai.services\\languagemodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2781A1B4-2806-801D-797F-49AE2E3F59CE}|SchemaAI.Services\\SchemaAI.Services.csproj|solutionrelative:schemaai.services\\languagemodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2781A1B4-2806-801D-797F-49AE2E3F59CE}|SchemaAI.Services\\SchemaAI.Services.csproj|d:\\workarea\\schemaai-server-v5.0\\schemaai-server\\schemaai\\schemaai.services\\genaiproviderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2781A1B4-2806-801D-797F-49AE2E3F59CE}|SchemaAI.Services\\SchemaAI.Services.csproj|solutionrelative:schemaai.services\\genaiproviderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2781A1B4-2806-801D-797F-49AE2E3F59CE}|SchemaAI.Services\\SchemaAI.Services.csproj|d:\\workarea\\schemaai-server-v5.0\\schemaai-server\\schemaai\\schemaai.services\\emailsettingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2781A1B4-2806-801D-797F-49AE2E3F59CE}|SchemaAI.Services\\SchemaAI.Services.csproj|solutionrelative:schemaai.services\\emailsettingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2781A1B4-2806-801D-797F-49AE2E3F59CE}|SchemaAI.Services\\SchemaAI.Services.csproj|d:\\workarea\\schemaai-server-v5.0\\schemaai-server\\schemaai\\schemaai.services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2781A1B4-2806-801D-797F-49AE2E3F59CE}|SchemaAI.Services\\SchemaAI.Services.csproj|solutionrelative:schemaai.services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2781A1B4-2806-801D-797F-49AE2E3F59CE}|SchemaAI.Services\\SchemaAI.Services.csproj|d:\\workarea\\schemaai-server-v5.0\\schemaai-server\\schemaai\\schemaai.services\\awsconfigservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2781A1B4-2806-801D-797F-49AE2E3F59CE}|SchemaAI.Services\\SchemaAI.Services.csproj|solutionrelative:schemaai.services\\awsconfigservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2781A1B4-2806-801D-797F-49AE2E3F59CE}|SchemaAI.Services\\SchemaAI.Services.csproj|d:\\workarea\\schemaai-server-v5.0\\schemaai-server\\schemaai\\schemaai.services\\awsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2781A1B4-2806-801D-797F-49AE2E3F59CE}|SchemaAI.Services\\SchemaAI.Services.csproj|solutionrelative:schemaai.services\\awsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544156A-95D9-7057-1623-31A05CBEFBAB}|SchemaAI.Entities\\SchemaAI.Entities.csproj|d:\\workarea\\schemaai-server-v5.0\\schemaai-server\\schemaai\\schemaai.entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544156A-95D9-7057-1623-31A05CBEFBAB}|SchemaAI.Entities\\SchemaAI.Entities.csproj|solutionrelative:schemaai.entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2781A1B4-2806-801D-797F-49AE2E3F59CE}|SchemaAI.Services\\SchemaAI.Services.csproj|d:\\workarea\\schemaai-server-v5.0\\schemaai-server\\schemaai\\schemaai.services\\awsdataprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2781A1B4-2806-801D-797F-49AE2E3F59CE}|SchemaAI.Services\\SchemaAI.Services.csproj|solutionrelative:schemaai.services\\awsdataprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2781A1B4-2806-801D-797F-49AE2E3F59CE}|SchemaAI.Services\\SchemaAI.Services.csproj|d:\\workarea\\schemaai-server-v5.0\\schemaai-server\\schemaai\\schemaai.services\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2781A1B4-2806-801D-797F-49AE2E3F59CE}|SchemaAI.Services\\SchemaAI.Services.csproj|solutionrelative:schemaai.services\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FB0523-35EB-D81A-EE4F-864DDD6A27BE}|SchemaAI\\SchemaAI.csproj|d:\\workarea\\schemaai-server-v5.0\\schemaai-server\\schemaai\\schemaai\\controllers\\applicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FB0523-35EB-D81A-EE4F-864DDD6A27BE}|SchemaAI\\SchemaAI.csproj|solutionrelative:schemaai\\controllers\\applicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FB0523-35EB-D81A-EE4F-864DDD6A27BE}|SchemaAI\\SchemaAI.csproj|d:\\workarea\\schemaai-server-v5.0\\schemaai-server\\schemaai\\schemaai\\controllers\\processedresultscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FB0523-35EB-D81A-EE4F-864DDD6A27BE}|SchemaAI\\SchemaAI.csproj|solutionrelative:schemaai\\controllers\\processedresultscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C62CF57-A1F2-8125-9E94-8DE4203116A6}|SchemaAI.DAL\\SchemaAI.DAL.csproj|d:\\workarea\\schemaai-server-v5.0\\schemaai-server\\schemaai\\schemaai.dal\\processedresultdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C62CF57-A1F2-8125-9E94-8DE4203116A6}|SchemaAI.DAL\\SchemaAI.DAL.csproj|solutionrelative:schemaai.dal\\processedresultdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C62CF57-A1F2-8125-9E94-8DE4203116A6}|SchemaAI.DAL\\SchemaAI.DAL.csproj|d:\\workarea\\schemaai-server-v5.0\\schemaai-server\\schemaai\\schemaai.dal\\systemconfigdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C62CF57-A1F2-8125-9E94-8DE4203116A6}|SchemaAI.DAL\\SchemaAI.DAL.csproj|solutionrelative:schemaai.dal\\systemconfigdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FBF446-B297-1AF1-692C-FCD90D3161E6}|SchemaAI.DALContract\\SchemaAI.Persistence.csproj|d:\\workarea\\schemaai-server-v5.0\\schemaai-server\\schemaai\\schemaai.dalcontract\\schemaaidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8FBF446-B297-1AF1-692C-FCD90D3161E6}|SchemaAI.DALContract\\SchemaAI.Persistence.csproj|solutionrelative:schemaai.dalcontract\\schemaaidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SchemaAIDbContext.cs",
+              "DocumentMoniker": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.DALContract\\SchemaAIDbContext.cs",
+              "RelativeDocumentMoniker": "SchemaAI.DALContract\\SchemaAIDbContext.cs",
+              "ToolTip": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.DALContract\\SchemaAIDbContext.cs",
+              "RelativeToolTip": "SchemaAI.DALContract\\SchemaAIDbContext.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAqwIoAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T14:28:24.972Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SystemConfigService.cs",
+              "DocumentMoniker": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.Services\\SystemConfigService.cs",
+              "RelativeDocumentMoniker": "SchemaAI.Services\\SystemConfigService.cs",
+              "ToolTip": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.Services\\SystemConfigService.cs",
+              "RelativeToolTip": "SchemaAI.Services\\SystemConfigService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwEIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T14:30:06.935Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.Services\\UserService.cs",
+              "RelativeDocumentMoniker": "SchemaAI.Services\\UserService.cs",
+              "ToolTip": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.Services\\UserService.cs",
+              "RelativeToolTip": "SchemaAI.Services\\UserService.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAgwKQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T11:37:48.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UploadedFileService.cs",
+              "DocumentMoniker": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.Services\\UploadedFileService.cs",
+              "RelativeDocumentMoniker": "SchemaAI.Services\\UploadedFileService.cs",
+              "ToolTip": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.Services\\UploadedFileService.cs",
+              "RelativeToolTip": "SchemaAI.Services\\UploadedFileService.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAA1wIgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T11:37:47.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TemplateService.cs",
+              "DocumentMoniker": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.Services\\TemplateService.cs",
+              "RelativeDocumentMoniker": "SchemaAI.Services\\TemplateService.cs",
+              "ToolTip": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.Services\\TemplateService.cs",
+              "RelativeToolTip": "SchemaAI.Services\\TemplateService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwEIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T11:37:27.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TemplatePromptService.cs",
+              "DocumentMoniker": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.Services\\TemplatePromptService.cs",
+              "RelativeDocumentMoniker": "SchemaAI.Services\\TemplatePromptService.cs",
+              "ToolTip": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.Services\\TemplatePromptService.cs",
+              "RelativeToolTip": "SchemaAI.Services\\TemplatePromptService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwDkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T11:37:06.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TemplateFileConfigService.cs",
+              "DocumentMoniker": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.Services\\TemplateFileConfigService.cs",
+              "RelativeDocumentMoniker": "SchemaAI.Services\\TemplateFileConfigService.cs",
+              "ToolTip": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.Services\\TemplateFileConfigService.cs",
+              "RelativeToolTip": "SchemaAI.Services\\TemplateFileConfigService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwDkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T11:36:41.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProcessingRequestService.cs",
+              "DocumentMoniker": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.Services\\ProcessingRequestService.cs",
+              "RelativeDocumentMoniker": "SchemaAI.Services\\ProcessingRequestService.cs",
+              "ToolTip": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.Services\\ProcessingRequestService.cs",
+              "RelativeToolTip": "SchemaAI.Services\\ProcessingRequestService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwD4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T11:36:09.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProcessedResultService.cs",
+              "DocumentMoniker": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.Services\\ProcessedResultService.cs",
+              "RelativeDocumentMoniker": "SchemaAI.Services\\ProcessedResultService.cs",
+              "ToolTip": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.Services\\ProcessedResultService.cs",
+              "RelativeToolTip": "SchemaAI.Services\\ProcessedResultService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T11:35:50.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PasswordHelper.cs",
+              "DocumentMoniker": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.Services\\PasswordHelper.cs",
+              "RelativeDocumentMoniker": "SchemaAI.Services\\PasswordHelper.cs",
+              "ToolTip": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.Services\\PasswordHelper.cs",
+              "RelativeToolTip": "SchemaAI.Services\\PasswordHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T11:35:49.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ModuleService.cs",
+              "DocumentMoniker": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.Services\\ModuleService.cs",
+              "RelativeDocumentMoniker": "SchemaAI.Services\\ModuleService.cs",
+              "ToolTip": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.Services\\ModuleService.cs",
+              "RelativeToolTip": "SchemaAI.Services\\ModuleService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswEUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T11:35:30.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LanguageModelService.cs",
+              "DocumentMoniker": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.Services\\LanguageModelService.cs",
+              "RelativeDocumentMoniker": "SchemaAI.Services\\LanguageModelService.cs",
+              "ToolTip": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.Services\\LanguageModelService.cs",
+              "RelativeToolTip": "SchemaAI.Services\\LanguageModelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T11:35:27.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GenAIProviderService.cs",
+              "DocumentMoniker": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.Services\\GenAIProviderService.cs",
+              "RelativeDocumentMoniker": "SchemaAI.Services\\GenAIProviderService.cs",
+              "ToolTip": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.Services\\GenAIProviderService.cs",
+              "RelativeToolTip": "SchemaAI.Services\\GenAIProviderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T11:35:11.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmailSettingService.cs",
+              "DocumentMoniker": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.Services\\EmailSettingService.cs",
+              "RelativeDocumentMoniker": "SchemaAI.Services\\EmailSettingService.cs",
+              "ToolTip": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.Services\\EmailSettingService.cs",
+              "RelativeToolTip": "SchemaAI.Services\\EmailSettingService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswFEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T11:34:57.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "SchemaAI.Services\\EmailService.cs",
+              "ToolTip": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.Services\\EmailService.cs",
+              "RelativeToolTip": "SchemaAI.Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T11:34:54.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "SchemaAI.Entities\\BaseEntity.cs",
+              "ToolTip": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.Entities\\BaseEntity.cs",
+              "RelativeToolTip": "SchemaAI.Entities\\BaseEntity.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAD4vyoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T11:34:28.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AWSService.cs",
+              "DocumentMoniker": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.Services\\AWSService.cs",
+              "RelativeDocumentMoniker": "SchemaAI.Services\\AWSService.cs",
+              "ToolTip": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.Services\\AWSService.cs",
+              "RelativeToolTip": "SchemaAI.Services\\AWSService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAxwCYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T11:33:52.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AWSDataProcessor.cs",
+              "DocumentMoniker": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.Services\\AWSDataProcessor.cs",
+              "RelativeDocumentMoniker": "SchemaAI.Services\\AWSDataProcessor.cs",
+              "ToolTip": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.Services\\AWSDataProcessor.cs",
+              "RelativeToolTip": "SchemaAI.Services\\AWSDataProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T11:33:49.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AwsConfigService.cs",
+              "DocumentMoniker": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.Services\\AwsConfigService.cs",
+              "RelativeDocumentMoniker": "SchemaAI.Services\\AwsConfigService.cs",
+              "ToolTip": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.Services\\AwsConfigService.cs",
+              "RelativeToolTip": "SchemaAI.Services\\AwsConfigService.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAwwG8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T11:33:21.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationService.cs",
+              "DocumentMoniker": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.Services\\ApplicationService.cs",
+              "RelativeDocumentMoniker": "SchemaAI.Services\\ApplicationService.cs",
+              "ToolTip": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.Services\\ApplicationService.cs",
+              "RelativeToolTip": "SchemaAI.Services\\ApplicationService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAE4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T11:33:08.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationsController.cs",
+              "DocumentMoniker": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI\\Controllers\\ApplicationsController.cs",
+              "RelativeDocumentMoniker": "SchemaAI\\Controllers\\ApplicationsController.cs",
+              "ToolTip": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI\\Controllers\\ApplicationsController.cs",
+              "RelativeToolTip": "SchemaAI\\Controllers\\ApplicationsController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAYwEcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T11:32:06.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SystemConfigDal.cs",
+              "DocumentMoniker": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.DAL\\SystemConfigDal.cs",
+              "RelativeDocumentMoniker": "SchemaAI.DAL\\SystemConfigDal.cs",
+              "ToolTip": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.DAL\\SystemConfigDal.cs",
+              "RelativeToolTip": "SchemaAI.DAL\\SystemConfigDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T14:31:08.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProcessedResultDal.cs",
+              "DocumentMoniker": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.DAL\\ProcessedResultDal.cs",
+              "RelativeDocumentMoniker": "SchemaAI.DAL\\ProcessedResultDal.cs",
+              "ToolTip": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI.DAL\\ProcessedResultDal.cs",
+              "RelativeToolTip": "SchemaAI.DAL\\ProcessedResultDal.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIAwwCIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T14:30:27.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProcessedResultsController.cs",
+              "DocumentMoniker": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI\\Controllers\\ProcessedResultsController.cs",
+              "RelativeDocumentMoniker": "SchemaAI\\Controllers\\ProcessedResultsController.cs",
+              "ToolTip": "D:\\Workarea\\SchemaAI-Server-v5.0\\SchemaAI-Server\\SchemaAI\\SchemaAI\\Controllers\\ProcessedResultsController.cs",
+              "RelativeToolTip": "SchemaAI\\Controllers\\ProcessedResultsController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAYwFIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T14:29:57.592Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
